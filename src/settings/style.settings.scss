@@ -1,0 +1,52 @@
+// #####-----#####-----#####-----##### All sizes   #####-----#####-----#####-----#####
+
+// Colors
+$blue: #0077b5;
+$dark-blue: #283e4a;
+$white: #f5f5f5;
+$red: #e74747;
+
+// #####-----#####-----#####-----##### Resolution small ≥576px   #####-----#####-----#####-----#####
+$query-sm: 576px;
+// Font sizes
+$title-sm: 24px;
+$subtitle-sm: 12px;
+$paragraph-sm: 10px;
+
+// Component Sizes
+$profile-component-height-sm: 200px;
+
+// Image Sizes
+$profile-width-sm: 120px;
+$profile-height-sm: 160px;
+$profile-bleed-sm: 30px;
+
+// #####-----#####-----#####-----##### Resolution medium ≥768px #####-----#####-----#####-----#####
+$query-md: 768px;
+// Font sizes
+$title-md: 28px;
+$subtitle-md: 14px;
+$paragraph-md: 12px;
+
+// Component Sizes
+$profile-component-height-md: 375px;
+
+// Image Sizes
+$profile-width-md: 135px;
+$profile-height-md: 180px;
+$profile-bleed-md: 40px;
+
+// #####-----#####-----#####-----##### Resolution large ≥992px #####-----#####-----#####-----#####
+$query-lg: 992px;
+// Font sizes
+$title-lg: 32px;
+$subtitle-lg: 16px;
+$paragraph-lg: 14px;
+
+// Component Sizes
+$profile-component-height-lg: 420px;
+
+// Image Sizes
+$profile-width-lg: 150px;
+$profile-height-lg: 200px;
+$profile-bleed-lg: 50px;
